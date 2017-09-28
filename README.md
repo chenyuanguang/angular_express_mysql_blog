@@ -1,0 +1,2 @@
+# angular_express_mysql_blog
+使用angular、express、mysql实现一个blog的demo
